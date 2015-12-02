@@ -6,8 +6,14 @@ I've updated his package to include the current changes up to MTA version 1.5.1 
 
 MTA forum link: https://forum.mtasa.com/viewtopic.php?f=91&t=78337
 
-I'm also thinking of adding Useful functions as well, however my knowledge of Sublime packages is limited and the way I have it right now works, but is a bit of a pain as it just adds the existing code above where ever your adding the function. If anybody wants to add a way themselves or wants to contact me to help me, feel free to!
-
 Any spelling mistakes or any issues, please contact me!
 
 Thanks!
+
+## Current todo list:
+ - Add event handlers (just search like "onClientClick", then add the whole event handler to where ever you type. E.g. addEventHandler("onClientClick", element theElement, function functionName))
+ - Add useful functions (still searching a good way to do this, however I have a working version, but its not very good)
+
+## Contributors
+ - 50p: Made the whole package
+ - Alberto2345: Updated with latest changes/additions
