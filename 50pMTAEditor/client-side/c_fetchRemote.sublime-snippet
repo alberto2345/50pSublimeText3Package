@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[fetchRemote( ${1:string URL}[, ${2:int connectionAttempts = 10} ], ${3:callback callbackFunction}, [ ${4:string postData = }"", ${5:bool postIsBinary = false}, [ arguments... ] ] )]]></content><tabTrigger>fetchRemote</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

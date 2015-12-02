@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setWeaponOwner( ${1:weapon theWeapon}, ${2:player theOwner} )]]></content><tabTrigger>setWeaponOwner</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

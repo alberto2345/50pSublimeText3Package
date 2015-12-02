@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[pregReplace( ${1:string subject}, ${2:string pattern}, ${3:string replacement }[, int/${4:string flags }] )]]></content><tabTrigger>pregReplace</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

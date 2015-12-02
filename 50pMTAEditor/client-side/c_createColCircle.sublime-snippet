@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[createColCircle( ${1:float fX}, ${2:float fY}, ${3:float radius} )]]></content><tabTrigger>createColCircle</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

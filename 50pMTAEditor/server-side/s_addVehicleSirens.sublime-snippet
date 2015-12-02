@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[addVehicleSirens( ${1:vehicle theVehicle}, ${2:int sirenCount}, ${3:int sirenType}, [${4:bool 360flag = false}, ${5:bool checkLosFlag = true}, ${6:bool useRandomiser flag }= true, ${7:bool silentFlag = false} )]]></content><tabTrigger>addVehicleSirens</tabTrigger><scope>source.lua</scope><description>Server-side</description></snippet>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[setPedAnimation( ${1:ped thePed }[, ${2:string block=nil}, ${3:string anim=nil}, ${4:int time=}-1, ${5:bool loop=true}, ${6:bool updatePosition=true}, ${7:bool interruptable=true}, ${8:bool freezeLastFrame = true}] )]]></content><tabTrigger>setPedAnimation</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>

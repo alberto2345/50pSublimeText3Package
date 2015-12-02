@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet>
+	<content><![CDATA[createBrowser( ${1:int width}, ${2:int height}, ${3:bool isLocal}[, ${4:bool transparent}] )]]></content>
+	<tabTrigger>createBrowser</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Client-side</description>
+</snippet>

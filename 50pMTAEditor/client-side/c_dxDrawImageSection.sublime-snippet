@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<snippet><content><![CDATA[dxDrawImageSection( ${1:float posX}, ${2:float posY}, ${3:float width}, ${4:float height}, ${5:float u}, ${6:float v}, ${7:float usize}, ${8:float vsize}, ${9:mixed image}, [ ${10:float rotation = 0}, ${11:float rotationCenterOffsetX = 0}, ${12:float rotationCenterOffsetY = 0}, ${13:int color = white}, ${14:bool postGUI = false }] )]]></content><tabTrigger>dxDrawImageSection</tabTrigger><scope>source.lua</scope><description>Client-side</description></snippet>
