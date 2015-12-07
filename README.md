@@ -11,7 +11,6 @@ Any spelling mistakes or any issues, please contact me!
 Thanks!
 
 ## Current todo list:
- - Add event handlers (just search like "onClientClick", then add the whole event handler to where ever you type. E.g. addEventHandler("onClientClick", element theElement, function functionName))
  - Add useful functions (still searching a good way to do this, however I have a working version, but its not very good)
 
 ## Contributors
